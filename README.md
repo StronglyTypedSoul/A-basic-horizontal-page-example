@@ -42,6 +42,3 @@ bundle exec jekyll serve
 
 ...
 
-## 🖊Authors:
-
-- [github@kaanersoy](https://github.com/FIFA0313)
